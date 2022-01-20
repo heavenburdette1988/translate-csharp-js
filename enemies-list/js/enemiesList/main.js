@@ -43,7 +43,7 @@ const enemies =
         // console.log(enemy.FirstName);
 
         if(enemy.IsReallyHated === true){
-            console.log(enemy.FirstName, enemy.LastName, "is really really disliked")
+            console.log(enemy.FirstName, enemy.LastName, "(Really Really disliked!)")
         
       } else {
        console.log(enemy.FirstName, enemy.LastName)   
